@@ -1,19 +1,48 @@
 aid: fearn
 name: Fearn
-description: Fearn is a company surfaced as a portfolio company of kindred-ventures and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Fearn is the AI-native patent prosecution firm built for startups. It pairs former
+  Big Law patent attorneys with proprietary, hallucination-resistant AI models built
+  in-house by PhD computer scientists to take an invention from disclosure to a
+  filing-ready provisional or non-provisional patent draft in minutes rather than the
+  50+ hours typical of traditional firms, at flat-rate pricing with automated
+  labeled-figure generation and a money-back guarantee tied to claim allowance. Fearn
+  self-hosts its entire AI infrastructure and uses no third-party model APIs, keeping
+  invention disclosures confidential and compliant with SOC 2, ISO 27001, ISO 27701,
+  and GDPR. Founded in 2025 and headquartered in San Francisco; backed by Kindred
+  Ventures and a16z speedrun. Fearn is a legal-services company and does not currently
+  publish a public developer API.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://framerusercontent.com/images/ttif87tkoRO6GG5JMASkJkb5To.png
 url: https://raw.githubusercontent.com/api-evangelist/fearn/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - kindred-ventures
-x-tier: stub
-x-tier-reason: portfolio-lead
+x-tier: profiled
+x-tier-reason: non-api-services-company
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Patents
+- Intellectual Property
+- Legal Tech
+- Patent Prosecution
+- Artificial Intelligence
+- Legal Services
+- Startups
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +52,36 @@ maintainers:
 common:
 - type: Website
   url: https://fearn.ai/
+- type: About
+  url: https://fearn.ai/about
+- type: Pricing
+  url: https://fearn.ai/pricing
+- type: Blog
+  url: https://fearn.ai/resources
+- type: Support
+  url: https://fearn.ai/contact
+- type: SignUp
+  url: https://app.fearn.ai/signup
+- type: Login
+  url: https://app.fearn.ai/signin
+- type: TermsOfService
+  url: https://fearn.ai/legal/terms
+- type: PrivacyPolicy
+  url: https://fearn.ai/legal/privacy
+- type: Compliance
+  url: https://fearn.ai/
+- type: LinkedIn
+  url: https://www.linkedin.com/company/fearn-ai
+- type: X
+  url: https://x.com/fearn_ai
+- type: Conformance
+  url: conformance/fearn-conformance.yml
+- type: DomainSecurity
+  url: security/fearn-domain-security.yml
+- type: LLMsTxt
+  url: llms/fearn-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

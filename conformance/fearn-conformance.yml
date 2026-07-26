@@ -1,0 +1,24 @@
+generated: '2026-07-19'
+method: searched
+source: https://fearn.ai/
+note: >-
+  Fearn is a patent-prosecution services firm with no public developer API. The
+  entries below are the data-security and privacy compliance postures Fearn
+  publishes on its own marketing site (homepage security section). They are
+  company/data-handling standards, not API conformance claims.
+standards:
+- id: soc2
+  conforms: true
+  evidence: 'Homepage security section states data handling is compliant with SOC II (SOC 2).'
+- id: iso-27001
+  conforms: true
+  evidence: 'Homepage security section lists ISO 27001 (information security management).'
+- id: iso-27701
+  conforms: true
+  evidence: 'Homepage security section lists ISO 27701 (privacy information management extension to ISO 27001).'
+- id: gdpr
+  conforms: true
+  evidence: 'Homepage security section states GDPR compliance; all invention disclosure data kept private.'
+- id: self-hosted-ai
+  conforms: true
+  evidence: 'Fearn states it self-hosts its entire AI infrastructure and uses no third-party model APIs, so disclosures never leave its environment.'

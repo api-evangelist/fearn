@@ -1,0 +1,31 @@
+# Fearn
+
+> Fearn is the AI-native patent prosecution firm built for startups. It pairs former Big Law patent attorneys with proprietary, hallucination-resistant AI models built in-house by PhD computer scientists to take an invention from disclosure to a filing-ready provisional or non-provisional patent draft in minutes rather than the 50+ hours typical of traditional firms. Fearn self-hosts its entire AI infrastructure (no third-party model APIs) to keep invention disclosures confidential. Founded 2025, San Francisco. Backed by Kindred Ventures and a16z speedrun. Note: Fearn is a services company and does not publish a public developer API.
+
+## Company
+- [Homepage](https://fearn.ai/): Big Law patents at startup speed.
+- [About](https://fearn.ai/about): Team and mission.
+- [Customers](https://fearn.ai/customers): Startup case studies.
+- [Pricing](https://fearn.ai/pricing): Flat-rate patent pricing.
+- [Contact / Schedule a call](https://fearn.ai/contact): Book a consultation.
+- [Sign up](https://app.fearn.ai/signup): Create an account.
+- [Sign in](https://app.fearn.ai/signin): Customer application.
+
+## Resources (patent guides)
+- [Patent or Trade Secret? Choosing the Right Protection](https://fearn.ai/resources/patent-or-trade-secret-choosing-the-right-protection-for-your-innovation)
+- [Why Patents Matter: Protecting and Monetizing Innovation](https://fearn.ai/resources/why-patents-matter-protecting-monetizing-innovation)
+- [What Can Be Patented?](https://fearn.ai/resources/what-can-be-patented)
+- [Understanding Your PCT Search Report and US National Phase](https://fearn.ai/resources/pct-international-search-reports-us-national-phase-prosecution)
+- [What Is a PCT Application?](https://fearn.ai/resources/understanding-the-pct-application-process)
+- [Understanding the Provisional Patent Application](https://fearn.ai/resources/understanding-the-provisional-patent-application)
+- [Understanding the U.S. First-to-File Rule](https://fearn.ai/resources/understanding-the-u.s.-first-to-file-rule)
+- [Why Fearn: Disclosure-Safe AI for the Future of IP](https://fearn.ai/resources/why-fearn-disclosure-safe-ai-for-the-future-of-intellectual-property)
+
+## Legal
+- [Terms](https://fearn.ai/legal/terms)
+- [Privacy](https://fearn.ai/legal/privacy)
+- [NDA](https://fearn.ai/legal/nda)
+
+## Social
+- [LinkedIn](https://www.linkedin.com/company/fearn-ai)
+- [X](https://x.com/fearn_ai)
