@@ -12,6 +12,17 @@ description: >-
   and GDPR. Founded in 2025 and headquartered in San Francisco; backed by Kindred
   Ventures and a16z speedrun. Fearn is a legal-services company and does not currently
   publish a public developer API.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
