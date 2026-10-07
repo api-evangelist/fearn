@@ -1,0 +1,57 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://fearn.ai/pricing
+sources:
+- https://fearn.ai/pricing
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: usage-other
+delivery:
+  delivery: managed
+  method: page
+  read: '2026-10-07'
+published: true
+note: Flat-fee legal services priced per filing stage; USPTO fees covered through issuance; $9,000 refunded
+  if examiner allows no claims.
+plan_count: 5
+currency: USD
+plans:
+- name: Stage A Landscape
+  price_text: Cost $2,000
+  price: 2000
+  currency: USD
+  period: one-time
+  unit: per landscape analysis
+  included_quota: Competitive landscape and whitespace analysis, covering patent and non-patent literature
+- name: Stage A Provisional
+  price_text: Cost $2,500
+  price: 2500
+  currency: USD
+  period: one-time
+  unit: per provisional filing
+  included_quota: Credited in full towards your non-provisional.
+- name: Stage B Non-Provisional PCT
+  price_text: Cost $9,000 guaranteed
+  price: 9000
+  currency: USD
+  period: one-time
+  unit: per international application
+  included_quota: One filing, 150+ countries; provisional cost credits towards non-provisional
+- name: Stage C US National Phase
+  price_text: Cost $7,500
+  price: 7500
+  currency: USD
+  period: one-time
+  unit: per national-phase entry
+  included_quota: National-phase entry, prepared and filed
+- name: Stage D Office Action Response
+  price_text: Cost $3,500 per response
+  price: 3500
+  currency: USD
+  period: one-time
+  unit: per response
+  included_quota: A reasoned response to each rejection
